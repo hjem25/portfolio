@@ -217,25 +217,25 @@ html {
     float: left;
 }
 .thumb1:hover{
-    transform: scale(1.4);
+    transform: scale(2);
 }
 .thumb2 {
     float: left;
 }
 .thumb2:hover{
-    transform: scale(1.4);
+    transform: scale(2);
 }
 .thumb3 {
     float:left;
 }
 .thumb3:hover{
-    transform: scale(1.4);
+    transform: scale(2);
 }
 .thumb4 {
     float: left;
 }
 .thumb4:hover{
-    transform: scale(1.4);
+    transform: scale(2);
 }
 .slide .pf_txt_container {
     position: relative;  
