@@ -392,7 +392,7 @@ html {
     }
     /******** S2 포트폴리오 *********/
     .s2 {
-        background: url(../img/portfolio.png) no-repeat center;
+        background: url(../img/pf_small.jpg) no-repeat center;
         background-size: 100% 1000px;
     }
     .slide {
@@ -402,7 +402,7 @@ html {
     .slide>.image {
         width: 82%;
         position: relative;
-        top: 8vh;
+        top: 15vh;
         margin: auto;
         transform: scale(0.8);
     }    
@@ -418,7 +418,6 @@ html {
         font-size: 35px;
         margin: auto;
     }
-
     .slide .pf_txt_container table tr td:nth-child(1){
         font-size: 25px;
     }
@@ -427,7 +426,7 @@ html {
         padding-left: 60px;
     }
     .thumb {
-        margin-top: -40px;
+        margin-top: -30px;
     }
     .pf_gosite {
         margin-top: 20px;
