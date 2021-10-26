@@ -463,12 +463,16 @@ html {
         color: #fff; border-radius: 5px;
     }
     /********** s0 앞표지 ************/
-    .section_home {
-        width: 85%; height: 95vh;
-        margin: auto;
+    #logo {
+        margin-left: -80px;
     }
-    .s0>.section_home>h1 {
-        font-size: 40px;
+    #topMenu {
+        margin-right: 160px;
+    }
+    /* 문구 */
+    .white_box {
+    margin-left: 100px;
+    background: no-repeat;
     }
     /*********** s1 프로파일 **********/
     .s1 {
